@@ -6,10 +6,10 @@
   
 ### ⭐ Our mission:
 
-To erase the boundaries of not understanding foreign-language songs.  
-Everyone can understand the lyrics, and we make the process easier and more fun. 
-    
+To erase the boundaries of not understanding foreign-language songs and software development.  
+Anyone can understand the basics of programming, much less the lyrics of a song, and we'll make the process easier and more fun.
   
+
 ### ⭐ How can you participate in development?
 
 🐛 Publish problems, bugs and vulnerabilities to the appropriate repository.   
@@ -34,8 +34,8 @@ Our main resource [labbel.ru](labbel.ru) has unique functionality that has no co
 
 ### ⭐ Наша миссия:
 
-Стереть границы непонимания иноязычных песен.  
-Каждый человек может понять текст песни, а мы сделаем этот процесс более простым и увлекательным. 
+Стереть границы непонимания иноязычных песен и программной разработки.  
+Каждый человек может понять основы программирования и, тем более, текст песни, а мы сделаем этот процесс более простым и увлекательным. 
   
   
 ### ⭐ Как вы можете принять участие в развитии?
