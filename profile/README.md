@@ -1,7 +1,7 @@
 <details>
-<summary>On English</summary>
+<summary>On English 🇺🇸 </summary>
 
-## 🇺🇸 The Belyash Lab is a community for translating popular English-language songs, as well as IT news and different frontend development solutions.    
+## The Belyash Lab is a community for translating popular English-language songs, as well as IT news and different frontend development solutions.    
   
   
 ### ⭐ Our mission:
