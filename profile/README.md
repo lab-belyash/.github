@@ -1,3 +1,32 @@
+<details>
+<summary>On English</summary>
+
+## 🇺🇸 The Belyash Lab is a community for translating popular English-language songs, as well as IT news and different frontend development solutions.    
+  
+  
+### ⭐ Our mission:
+
+To erase the boundaries of not understanding foreign-language songs.  
+Everyone can understand the lyrics, and we make the process easier and more fun. 
+    
+  
+### ⭐ How can you participate in development?
+
+🐛 Publish problems, bugs and vulnerabilities to the appropriate repository.   
+⏫ If you can do a code review, your feedback is very welcome.    
+🗒️ Know another language? We're waiting for you in [volunteers](labbel.ru/volunteering)!  
+
+    
+### ⭐ Documentation
+
+You can find the documentation you need in the appropriate repositories.
+  
+  
+### 🌟 Interesting fact
+
+Our main resource [labbel.ru](labbel.ru) has unique functionality that has no competitors. 🤩
+  
+</details>
 # 🇷🇺 Лаборатория Беляш — это сообщество по переводу популярных англоязычных песен, а также новости IT-сферы и разные решения frontend-разработки. 
 
 ![Company](https://labbel.ru/static/gifs/cover.gif 'Company')
