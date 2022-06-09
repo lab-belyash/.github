@@ -22,7 +22,7 @@
   
 ### 🌟 Интересный факт
 
-Наш главный ресурс [labbel.ru](labbel.ru) имеет уникальный функционал, у которого нет конкурентов 🤩
+Наш главный ресурс [labbel.ru](labbel.ru) имеет уникальный функционал, у которого нет конкурентов. 🤩
 
 <details>
 <summary>On English</summary>
@@ -50,6 +50,6 @@ You can find the documentation you need in the appropriate repositories.
   
 ### 🌟 Interesting fact
 
-Our main resource [labbel.ru](labbel.ru) has unique functionality that has no competitors 🤩
+Our main resource [labbel.ru](labbel.ru) has unique functionality that has no competitors. 🤩
   
 </details>
