@@ -14,7 +14,7 @@ Anyone can understand the basics of programming, much less the lyrics of a song,
 
 🐛 Publish problems, bugs and vulnerabilities to the appropriate repository.   
 ⏫ If you can do a code review, your feedback is very welcome.    
-🗒️ Know another language? We're waiting for you in [volunteers](labbel.ru/volunteering)!  
+🗒️ Know another language? We're waiting for you in [volunteers](https://labbel.ru/volunteering)!  
 
     
 ### ⭐ Documentation
@@ -24,7 +24,7 @@ You can find the documentation you need in the appropriate repositories.
   
 ### 🌟 Interesting fact
 
-Our main resource [labbel.ru](labbel.ru) has unique functionality that has no competitors. 🤩
+Our main resource [labbel.ru](https://labbel.ru/) has unique functionality that has no competitors. 🤩
   
 </details>  
 
@@ -42,7 +42,7 @@ Our main resource [labbel.ru](labbel.ru) has unique functionality that has no co
 
 🐛 Публиковать проблемы, баги и уязвимости в соответствующий репозиторий.  
 ⏫ Если вы можете провести код-ревью, то мы будем очень рады вашим замечаниям.  
-🗒️ Знаете другой язык? Ждем вас в [волонтёрах](labbel.ru/volunteering)!
+🗒️ Знаете другой язык? Ждем вас в [волонтёрах](https://labbel.ru/volunteering)!
   
   
 ### ⭐ Документация
@@ -52,4 +52,4 @@ Our main resource [labbel.ru](labbel.ru) has unique functionality that has no co
   
 ### 🌟 Интересный факт
 
-Наш главный ресурс [labbel.ru](labbel.ru) имеет уникальный функционал, у которого нет конкурентов. 🤩
+Наш главный ресурс [labbel.ru](https://labbel.ru/) имеет уникальный функционал, у которого нет конкурентов. 🤩
