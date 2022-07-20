@@ -3,6 +3,7 @@
 
 ## The Belyash Lab is a community for translating popular English-language songs, as well as IT news and different frontend development solutions.    
   
+![Company](https://labbel.ru/static/gifs/cover.gif 'Company')
   
 ### ⭐ Our mission:
 
@@ -14,7 +15,7 @@ Anyone can understand the basics of programming, much less the lyrics of a song,
 
 🐛 Publish problems, bugs and vulnerabilities to the appropriate repository.   
 ⏫ If you can do a code review, your feedback is very welcome.    
-🗒️ Know another language? We're waiting for you in [volunteers](https://labbel.ru/volunteering)!  
+🗒️ Know foreign language? We're waiting for you in [volunteers](https://labbel.ru/volunteering)!  
 
     
 ### ⭐ Documentation
@@ -42,7 +43,7 @@ Our main resource [labbel.ru](https://labbel.ru/) has unique functionality that 
 
 🐛 Публиковать проблемы, баги и уязвимости в соответствующий репозиторий.  
 ⏫ Если вы можете провести код-ревью, то мы будем очень рады вашим замечаниям.  
-🗒️ Знаете другой язык? Ждем вас в [волонтёрах](https://labbel.ru/volunteering)!
+🗒️ Знаете иностранный язык? Ждем вас в [волонтёрах](https://labbel.ru/volunteering)!
   
   
 ### ⭐ Документация
