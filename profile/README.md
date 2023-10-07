@@ -3,7 +3,7 @@
 
 ## The Belyash Lab is a community for translating popular English-language songs, as well as IT news and different frontend development solutions.    
   
-![Company](https://labbel.ru/static/gifs/cover.gif 'Company')
+![Company](https://labbel.vercel.app/static/gifs/cover.gif 'Company')
   
 ### ⭐ Our mission:
 
@@ -15,7 +15,7 @@ Anyone can understand the basics of programming, much less the lyrics of a song,
 
 🐛 Publish problems, bugs and vulnerabilities to the appropriate repository.   
 ⏫ If you can do a code review, your feedback is very welcome.    
-🗒️ Know foreign language? We're waiting for you in [volunteers](https://labbel.ru/volunteering)!  
+🗒️ Know foreign language? We're waiting for you in [volunteers](https://labbel.vercel.app/volunteering)!  
 
     
 ### ⭐ Documentation
@@ -25,13 +25,13 @@ You can find the documentation you need in the appropriate repositories.
   
 ### 🌟 Interesting fact
 
-Our main resource [labbel.ru](https://labbel.ru/) has unique functionality that has no competitors. 🤩
+Our main resource [labbel.vercel.app](https://labbel.vercel.app/) has unique functionality that has no competitors. 🤩
   
 </details>  
 
 ## 🇷🇺 Лаборатория Беляш — это сообщество по переводу популярных англоязычных песен, а также новости IT-сферы и разные решения frontend-разработки. 
 
-![Company](https://labbel.ru/static/gifs/cover.gif 'Company')
+![Company](https://labbel.vercel.app/static/gifs/cover.gif 'Company')
 
 ### ⭐ Наша миссия:
 
@@ -43,7 +43,7 @@ Our main resource [labbel.ru](https://labbel.ru/) has unique functionality that 
 
 🐛 Публиковать проблемы, баги и уязвимости в соответствующий репозиторий.  
 ⏫ Если вы можете провести код-ревью, то мы будем очень рады вашим замечаниям.  
-🗒️ Знаете иностранный язык? Ждем вас в [волонтёрах](https://labbel.ru/volunteering)!
+🗒️ Знаете иностранный язык? Ждем вас в [волонтёрах](https://labbel.vercel.app/volunteering)!
   
   
 ### ⭐ Документация
@@ -53,4 +53,4 @@ Our main resource [labbel.ru](https://labbel.ru/) has unique functionality that 
   
 ### 🌟 Интересный факт
 
-Наш главный ресурс [labbel.ru](https://labbel.ru/) имеет уникальный функционал, у которого нет конкурентов. 🤩
+Наш главный ресурс [labbel.vercel.app](https://labbel.vercel.app/) имеет уникальный функционал, у которого нет конкурентов. 🤩
